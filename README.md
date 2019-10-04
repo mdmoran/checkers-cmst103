@@ -20,8 +20,6 @@ function draw() {
       else { 
       fill(color2)}
       square(col * size, row * size, size)
-     /* if (row+i, i*size+size/2, tow*size+size/2)
-        fill(color1)*/
     }
   }
 }
